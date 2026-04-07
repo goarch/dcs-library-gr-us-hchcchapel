@@ -47,6 +47,8 @@ cl.Apolytikion1.text = me.m09.d14_gr_GR_cog.meVE.Apolytikion1.text
 cl.conVE.SticBoth.churchname.text = ""
 cl.consecration.name = ""
 
+cl.relic_saints.text = "(saints)"
+/*
 cl.relics.saint1 = ""
 cl.relics.saint1.Apolytikion.title = ""
 cl.relics.saint1.Apolytikion.mode = ""
@@ -64,6 +66,8 @@ cl.relics.saint3.Apolytikion.title = ""
 cl.relics.saint3.Apolytikion.mode = ""
 cl.relics.saint3.Apolytikion.melody = ""
 cl.relics.saint3.Apolytikion.text = ""
+
+*/
 
 //Rubrics
 cl.rubric.insertparaklesis.text = "A Paraklesis Service will be inserted here, after which continue with the following:"
